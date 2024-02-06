@@ -293,7 +293,7 @@ nav .menu-btn,
   grid-template-columns: 1fr;
   justify-content: center;
   align-items: flex-start;
-  margin: 4rem 10%;
+  margin: 10rem 10% 0;
 }
 .offer__text {
   position: relative;
@@ -465,7 +465,7 @@ nav .menu-btn,
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin: 0 10%;
+  margin: 10rem 10% 0;
 }
 .about__tx {
   display: flex;
@@ -638,6 +638,7 @@ nav .menu-btn,
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  margin: 10rem 0;
 }
 .contact__text {
   display: flex;
@@ -1380,7 +1381,7 @@ nav .menu-btn,
   }
   .features__tx {
     justify-content: flex-start;
-    height: 180vh;
+    height: 200vh;
   }
   #features {
     width: 100%;
