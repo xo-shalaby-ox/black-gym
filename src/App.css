@@ -293,7 +293,7 @@ nav .menu-btn,
   grid-template-columns: 1fr;
   justify-content: center;
   align-items: flex-start;
-  margin: 10rem 10% 0;
+  margin: 13rem 10% 0;
 }
 .offer__text {
   position: relative;
@@ -1358,6 +1358,7 @@ nav .menu-btn,
     margin: 0px;
     border-radius: 1rem;
   }
+
   #main {
     margin: 1px 0;
   }
@@ -1409,7 +1410,7 @@ nav .menu-btn,
     font-size: 12px;
   }
   .offer__edit {
-    margin: 4rem 0;
+    margin: 7rem 0;
   }
   .offer__img {
     height: 300px;
